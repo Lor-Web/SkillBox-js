@@ -1,0 +1,106 @@
+@import url("./normalize.css");
+@import url("./fonts.css");
+
+body {
+  font-family: "Montserrat";
+  color: #f6fafb;
+  background-color: #5e6668;
+}
+
+.container {
+  max-width: 1400px;
+  margin: auto;
+  padding: 0 10px;
+}
+
+.header {
+  margin-bottom: 30px;
+  background-color: #252b31;
+}
+
+.logo-link {
+  color: #f6fafb;
+}
+
+.pages,
+.return {
+  margin-bottom: 20px;
+}
+
+.page {
+  padding: 5px;
+  color: #c1c8c7;
+  background-color: transparent;
+  border: 1px solid #c1c8c7;
+  border-radius: 5px;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+.page:hover {
+  color: #252b31;
+  background-color: #c1c8c7;
+}
+
+.page-number {
+  margin-bottom: 10px;
+}
+
+.news {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.news-item {
+  margin-bottom: 10px;
+  width: 680px;
+  padding: 10px;
+  color: #c1c8c7;
+  border: 1px solid #c1c8c7;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: color 0.2s ease, border 0.2s ease;
+}
+
+.item-title {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.item-body {
+  font-size: 14px;
+}
+
+.news-item:hover {
+  color: #f6fafb;
+  border: 1px solid #f6fafb;
+}
+
+.item-post {
+  margin-bottom: 100px;
+}
+
+.comments-list__title {
+  margin-bottom: 30px;
+}
+
+.comment-author {
+  margin-right: 10px;
+}
+
+.comment-mail {
+  font-size: 12px;
+}
+
+.comment-item {
+  margin-bottom: 20px;
+  padding: 20px;
+  max-width: 550px;
+  color: #252b31;
+  background-color: #f6fafb;
+  border-radius: 15px;
+}
+
+.comment-author {
+  font-weight: 700;
+}

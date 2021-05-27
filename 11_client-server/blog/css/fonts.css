@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Thin.ttf") format("woff");
+  font-display: swap;
+  font-weight: 100;
+  font-style: thin;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Light.ttf") format("woff");
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Regular.ttf") format("woff");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Medium.ttf") format("woff");
+  font-display: swap;
+  font-weight: 500;
+  font-style: medium;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-SemiBold.ttf") format("woff");
+  font-display: swap;
+  font-weight: 600;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Bold.ttf") format("woff");
+  font-display: swap;
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-ExtraBold.ttf") format("woff");
+  font-display: swap;
+  font-weight: 800;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-Black.ttf") format("woff");
+  font-display: swap;
+  font-weight: 900;
+  font-style: black;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito-ExtraBold.ttf") format("woff");
+  font-display: swap;
+  font-weight: 800;
+  font-style: black;
+}
